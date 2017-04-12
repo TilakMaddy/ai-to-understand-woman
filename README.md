@@ -9,4 +9,7 @@ My mom keeps yelling at me **everytime** no matter what I do . She asks me to bu
 
 ## When will I do this ?
 
-I am hoping to do it right after my exams using Tensorflow library in Python. But if you can do it before, you are most welcome to manage this project !
+I am hoping to do it right after my exams using Tensorflow library in Python. But the learning curve is pretty steep so if you can do it before, you are most welcome to manage this project ! 
+
+## Thanks for taking interest in this and thanks for reading !
+### Chow !
